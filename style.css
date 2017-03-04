@@ -1,0 +1,20 @@
+body {
+                font-family: Arial, Verdana, Garamond;
+                font-size: 11px;
+            }
+            th.subtitle {
+                text-align: left;
+                text-indent: 10px;
+                background-color: "white";
+            }
+            td {
+                text-indent: 10px;
+            }
+            tr.blueRow {
+                background-color: #194A70;
+                color: yellow;
+            }
+            tr.yellowRow {
+                background-color: yellow;
+                color: #194A70;
+            }
